@@ -1,0 +1,9 @@
+{
+  "name": "sajma",
+  "packageManager": "yarn@4.1.0",
+  "private": true,
+  "devDependencies": {
+    "cypress": "13.2",
+    "jest": "^29.7.0"
+  }
+}
